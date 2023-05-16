@@ -5,9 +5,13 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+  -I'm trying to give myself as many advantages as possible and use all available resources to succeed. I'm "good with computers" in general as people would describe me, however I have ZERO experience with coding. I was already watching some YouTube videos to get the basics of HTML, CSS and JS so that I wouldn't be totally lost when class starts. 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+  -I wanted to apply the few tools that I have learned into a viable, yet basic project.  
 - What problem does it solve?
+  -Consolidates my notes into a single, easily accesable location.  
 - What did you learn?
+  -While all these concepts are new to me I already had a basic understanding of HTML, CSS and JS. GitHub and the git flow were completely new and I had some serious problems adapting to work using them in the early stages of the project.  
 
 ## Table of Contents (Optional)
 
